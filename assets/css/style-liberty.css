@@ -19212,7 +19212,7 @@ ul.follow-social li a {
 }
 
 .single-info p a {
-  color: var(--white-text);
+  color: var(--font-color);
   font-weight: 500;
 }
 
